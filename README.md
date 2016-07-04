@@ -5,6 +5,8 @@
 2. Install [Meteor](https://www.meteor.com/install)
 
 #run
+clone the repo `git clone -repo url-`
+
 go to app folder `cd meteor-todoApp`
 
 then `npm start`
